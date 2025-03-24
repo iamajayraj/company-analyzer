@@ -1,1 +1,1 @@
-Company News Analyzer
+# Company News Analyzer
