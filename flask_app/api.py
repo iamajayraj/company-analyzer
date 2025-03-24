@@ -32,4 +32,4 @@ def query():
     return jsonify(data)
 
 
-app.run(host='localhost', port=8080, debug=True)
+app.run(host='localhost', port=5001, debug=True)
