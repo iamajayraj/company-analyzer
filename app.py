@@ -21,7 +21,7 @@ st.title("News Summarization and Text-to-Speech Application")
 company_name = st.text_input('Enter Company Name')
 if st.button("Enter"):
     # Make a POST request to the Flask API
-    url = "http://localhost:8080/query"
+    url = "http://localhost:5001/query"
     response = requests.post(url, json={'query': company_name})
 
     # Return of flask
