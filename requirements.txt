@@ -1,0 +1,12 @@
+streamlit
+requests
+flask
+python-dotenv
+beautifulsoup4
+pydantic
+langchain_core
+langchain_groq
+gtts
+httpx
+groq
+translate
